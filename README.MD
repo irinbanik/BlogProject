@@ -9,7 +9,9 @@ For this project MongoDB is used in order to handle complex JSON structure
 ---
 For using the APIs, basic authentication needs to be passed.
 <br>
+<br>
 **Credentials**
+---
 <br>
 Username : admin
 <br>

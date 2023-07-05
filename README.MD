@@ -7,6 +7,15 @@ For this project MongoDB is used in order to handle complex JSON structure
 
 ## How to use APIs?
 ---
+For using the APIs, basic authentication needs to be passed.
+<br>
+**Credentials*
+<br>
+Username : admin
+<br>
+Password : admin
+<br>
+
 This utility is able to perform the following tasks:
 <br><br>
 **/createBlog** : Creates blog post

@@ -5,14 +5,13 @@ This is a blog post project which uses RESTful APIs in order to perform a number
 For this project MongoDB is used in order to handle complex JSON structure
 <br><br>
 
-## How to use APIs?
+# How to use APIs?
 ---
 For using the APIs, basic authentication needs to be passed.
 <br>
 <br>
 **Credentials**
 ---
-<br>
 Username : admin
 <br>
 Password : admin
